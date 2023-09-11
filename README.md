@@ -1,4 +1,6 @@
-# Store
+# psn-store-projeto
+PSN Store project developed as part of the DIO Santander Bootcamp 2023 - Java + Angular Full Stack 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
