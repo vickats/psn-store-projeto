@@ -9,7 +9,14 @@
     display: flex;
     overflow: hidden;
     margin-top: 10px;
-    &__img {
+  }
+
+  &__img {
+    min-width: 100%;
+    min-height: 100%;
+    transition: transform 0.8s;
+    &:hover {
+      transform: scale(1.1);
     }
   }
 }
